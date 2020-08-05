@@ -15,8 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Connect with me:
-
-
 # 🤝 Hire me
 Have some feedback, questions, or want to hire me? Feel free to email me at Nomadqaderi@gmail.com or find me on Twitter and Github I’m always interested in new projects, consulting, or doing code reviews.
