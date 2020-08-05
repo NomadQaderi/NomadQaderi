@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Connect with me:
+
+[<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+# 🤝 Hire me
+Have some feedback, questions, or want to hire me? Feel free to email me at Nomadqaderi@gmail.com or find me on Twitter and Github I’m always interested in new projects, consulting, or doing code reviews.
