@@ -1,4 +1,4 @@
-### Hi, I'm Nomad Qaderi ☕️ 💻 👋
+### Hi, I'm Nomad Qaderi ☕️  👋
 
 <!--
 **NomadQaderi/NomadQaderi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
