@@ -1,4 +1,4 @@
-### Hi there,my name is Nomad Qaderi I’m an IOS developer  based in Arlington, VA. 👋
+### Hi, I'm Nomad Qaderi 👋
 
 <!--
 **NomadQaderi/NomadQaderi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
