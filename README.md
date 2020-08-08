@@ -1,6 +1,4 @@
-### Hello, I'm Nomad Qaderi ☕️  
-
-## Hi 👋 I am Nomad Qaderi 
+## Hi 👋 I am Nomad Qaderi ☕️  
 
 
 I am an IOS developer based in Washington, DC area. 
