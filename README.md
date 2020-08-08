@@ -5,7 +5,7 @@ I am an IOS developer based in Washington, DC area.
 
 - 👨🏽‍💻 Currently learning data structures and algorithms.
 - 🤝 Open for collaborations.
-- 😊 Willing to contribute in opensource projects.
+- 😊 Willing to contribute to opensource projects.
 - 👍 Looking for a full time jobs in Washington DC area.
 - 🌐 Visit my [My Blog ](https://www.xcoders.io) for IOS tips and tricks.
 
