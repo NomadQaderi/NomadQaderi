@@ -1,19 +1,17 @@
 ### Hello, I'm Nomad Qaderi ☕️  
 
+## Hi 👋 I am Nomad Qaderi 
+
 <!--
 **NomadQaderi/NomadQaderi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am an IOS developer based in Washington, DC area. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨🏽‍💻 Currently learning data structures and algorithms.
+- 🤝 Open for collaborations.
+- 😊 Willing to contribute in opensource projects.
+- 👍 Looking for a full time jobs in Washington DC area.
+- 🌐 Visit my [My Blog ](https://www.xcoders.io) for IOS tips and tricks.
 
 ## To connect with me:
 
