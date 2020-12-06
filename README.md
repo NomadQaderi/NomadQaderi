@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Nomad Qaderi ☕️  
 
-<img align="right" alt="GIF" src="https://github.com/Arvindcs/Arvindcs/blob/main/Source/image.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/43586847/101272471-7ab1f780-375a-11eb-844e-a7c5cfb10dba.gif?raw=true" width="500" height="320" />
 
 I am an IOS developer based in Washington, DC area. 
 
