@@ -1,5 +1,4 @@
-## Hi 👋 I am Nomad Qaderi ☕️  
-
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Nomad Qaderi ☕️  
 
 I am an IOS developer based in Washington, DC area. 
 
