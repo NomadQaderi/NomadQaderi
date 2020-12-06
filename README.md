@@ -8,6 +8,8 @@ I am an IOS developer based in Washington, DC area.
 - 👍 Looking for a full time jobs in Washington DC area.
 - 🌐 Visit my [My Blog ](https://www.xcoders.io) for IOS tips and tricks.
 
+<img align="right" alt="GIF" src="https://github.com/Arvindcs/Arvindcs/blob/main/Source/image.gif?raw=true" width="500" height="320" />
+
 ## To connect with me:
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/NomadQaderi)[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/qaderi/) 
