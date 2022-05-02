@@ -10,7 +10,7 @@ I am an IOS developer based in Washington, DC area.
 - 👍 Looking for a full time jobs in Washington DC area.
 - 🌐 Visit my [My Blog ](https://www.xcoders.io) for IOS tips and tricks.
 
-
+---
 
 **Currently working with:**<br>
 <img width="50" src="https://user-images.githubusercontent.com/43586847/166171979-66507343-c827-4650-8b0a-333a44354b87.png" />
