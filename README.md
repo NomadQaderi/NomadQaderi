@@ -10,11 +10,16 @@ I am an IOS developer based in Washington, DC area.
 - 👍 Looking for a full time jobs in Washington DC area.
 - 🌐 Visit my [My Blog ](https://www.xcoders.io) for IOS tips and tricks.
 
+**Currently working with:
+<img width="50" src="https://user-images.githubusercontent.com/43586847/166171979-66507343-c827-4650-8b0a-333a44354b87.png" />
+<img width="50" src="https://user-images.githubusercontent.com/43586847/166172104-b35e7c8d-ff8f-4b6f-91c7-69667ba5bee9.png" />
+<img width="50" src="https://user-images.githubusercontent.com/43586847/166172126-5541d715-2845-4932-9add-6b9e9c3bc236.png" />
+<img width="50" src="https://user-images.githubusercontent.com/43586847/166172147-eb1e2bd9-84ab-4fba-a67e-0b67d1841cb5.png" />
+
 **Languages :**  
  ** Swift  <br/>
  ** SwiftUI <br/>
- ** Objective C <br/>
-
+ 
 
 ## To connect with me:
 
