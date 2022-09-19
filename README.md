@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/43586847/101272471-7ab1f780-375a-11eb-844e-a7c5cfb10dba.gif?raw=true" width="320" height="320" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/43586847/101272471-7ab1f780-375a-11eb-844e-a7c5cfb10dba.gif?raw=true" width="450" height="320" />
 
 - 🔭 I'm currently working on my personal projects.
 - 🌱 I'm interested in Computer Science & Software Development.
